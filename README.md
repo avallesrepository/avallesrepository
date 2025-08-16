@@ -1,9 +1,22 @@
-## Hi there 👋, I'm Alejandro Vallés, here I upload some of my favourite software projects that I've worked on.
 
-Recent Graduate in Computer Science and Business Administration
--Currently working with Java-Spring Boot and Angular.
-🌱 Learning about AI implementations and System Desing.
-📫 You can reach me through my website or LinkedIn profile.
+
+## Hi there, I'm Alejandro Vallés  
+
+Here you can find some of my favourite software projects that I've worked on.
+
+---
+
+###  About Me  
+- Recent graduate in **Computer Science and Business Administration** from the **Universidad Politécnica de Valencia (UPV)** 
+- Currently working with **Java Spring Boot** and **Angular**  
+- Learning about **AI implementations** and **System Design**  
+
+---
+
+### 📫 Get in Touch  
+-  [My Website](#)  
+-  [LinkedIn Profile](#)  
+
 
 <!--
 **avallesrepository/avallesrepository** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
