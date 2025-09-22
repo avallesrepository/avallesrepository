@@ -14,9 +14,8 @@ Here you can find some of my favourite software projects that I've worked on.
 
 ---
 
-### 📫 Get in Touch  
--  [My Website](#)  
--  [LinkedIn Profile](#)  
+### 📫 Get in Touch   
+-  [LinkedIn Profile](#www.linkedin.com/in/avalriv)  
 
 
 <!--
