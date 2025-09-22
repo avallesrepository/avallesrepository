@@ -7,7 +7,7 @@ Here you can find some of my favourite software projects that I've worked on.
 ---
 
 ###  About Me  
-- Graduate in **Computer Science and Business Administration** from the **Universidad Politécnica de Valencia (UPV)** 
+- Graduate in **Computer Science and Business Administration** from the **Polytechnic University of Valencia (UPV)** 
 - Currently working with **Java Spring Boot** and **Angular**  
 - Learning about **AI implementations** and **System Design**
 - Interested in economics and financial markets
