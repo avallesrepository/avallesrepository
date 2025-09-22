@@ -13,10 +13,12 @@ Here you can find some of my favourite software projects that I've worked on.
 - Interested in economics and tech
 
 ---
+###  Familiar technologies  
+ Java · Spring Boot · Typescript · SQL · PostgreSQL · Git · JUnit · Micro-Services
 
+---
 ### 📫 Get in Touch   
 -  [LinkedIn Profile](#www.linkedin.com/in/avalriv)  
-
 
 <!--
 **avallesrepository/avallesrepository** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
