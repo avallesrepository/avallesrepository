@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm Alejandro Vallés  
+## Hi there, I'm Alex Vallés  
 
 Here you can find some of my favourite software projects that I've worked on.
 
